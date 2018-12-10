@@ -3,6 +3,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
+## Why JBoss?
+![alt tag](https://github.com/Roku234/gci18.jbossoutreach.org/blob/master/src/assets/Introduction.png)
+![alt tag](https://github.com/Roku234/gci18.jbossoutreach.org/blob/master/src/assets/Mentors.png)
+![alt tag](https://github.com/Roku234/gci18.jbossoutreach.org/blob/master/src/assets/Projects.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -23,11 +28,25 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## Set up project
+Clone the project to your local text editor and make the necessary changes. Follow the instructions on how to commit changes below
+
+## Contribution
+Stage files in order to commit to repository
+```
+$ git add .
+```
+Commit the files that have been staged
+```
+git commit -m "Put your change in a description here"
+```
+Push the changes to the repository on Github
+```
+git push origin branch
+```
+Go to the repository in Github and click "New pull request" to submit a pull request
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Wireframes
-View wireframe with full interactivity: http://www.wireframe.rohitmukund.me
-
-View picture version of wireframe: https://www.behance.net/gallery/72939495/Wireframe
